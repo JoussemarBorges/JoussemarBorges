@@ -24,4 +24,8 @@
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=JoussemarBorges&theme=github_dark">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoussemarBorges&layout=compact&theme=github_dark">
 </div>
+<div align="center">
+  <a href = "mailto:joussemar.borges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joussemar-borges-dev-full-stack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+</div>
 
