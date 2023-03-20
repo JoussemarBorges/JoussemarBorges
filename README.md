@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joussemar</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🌱 I’m currently learning **Docker, Node, SQL, MySQL, Typescript, POO , MongoDB and Python**
+- 🌱 I’m currently learning **POO ,JAVA, Vue.Js**
 
-- 💬 Ask me about **React, Context, Redux,JavaScript, HTML, CSS, RTL, JEST**
+- 💬 Ask me about **React, Context, Redux,JavaScript, Docker, RTL, JEST, MOCHA, Node, SQL, NoSQL, MongoDB, Python and TypeScript**
 
 - 📫 How to reach me **joussemar.borges@gmail.com**
 
